@@ -25,18 +25,18 @@ header {
   display: flex;
   list-style: none;
   gap: 20px;
-  margin-left: 350px;
+  margin-left: 300px;
 }
 
 .left_nav ul li a {
   text-decoration: none;
   color: red;
   font-weight: 600;
+  padding: 10px;
 }
 
 .left_nav ul li a:hover {
   background-color: goldenrod;
-  padding: 10px;
 }
 
 .search_login {
